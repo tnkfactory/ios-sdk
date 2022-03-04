@@ -1,6 +1,6 @@
 # 아래의 SDK 는 더 이상 사용되지 않습니다.
 # 신규 SDK 를 사용하시기 바랍니다.
-## [[iOS Pub SDK 가이드 문서](https://github.com/tnkfactory/ios-pub-sdk/README.md)]
+## [[iOS Pub SDK 가이드 문서](https://github.com/tnkfactory/ios-pub-sdk/blob/main/README.md)]
 
 # Tnkfactory SDK
 
